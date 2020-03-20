@@ -1,0 +1,22 @@
+
+@media print {
+    header { background: none; color: #000; }
+    body {
+        font-size: 20px;
+        color:black;
+        font-family: Arial;
+        width: 90%;
+        margin: 0px;
+        padding: 0px;
+    }
+    .no-print, .no-print * {
+        display: none !important;
+        height: 0;
+    }
+
+    header, footer {
+        display: none !important;
+        height: 0;
+    }
+    
+}

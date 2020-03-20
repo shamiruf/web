@@ -1,0 +1,101 @@
+
+.header {
+    background: #464647;
+    margin:0 auto;
+}
+
+.menu-container{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+    align-content: stretch;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.navbar {
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+    align-content: stretch;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.logo {
+    margin-left: 45px;
+    margin-bottom: 20px;
+}
+
+.menu {
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+    align-content: stretch;
+    align-items: center;
+    margin-left: 350px;
+}
+
+.menu li {
+    font-size: 17px;
+    margin-right: 25px;
+}
+
+.menu li a {
+    color: #576272;
+    padding: 12px 0;
+
+}
+
+.menu li.active a,
+.menu li a:hover {
+    color: #F27649;
+    border-top: 1px solid #F27649;
+    border-bottom: 1px solid  #F27649;
+}
+
+.navbar2 {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: 45px;
+    flex-direction: column;
+}
+
+.navbar2 a {
+    font-size: 17px;
+    color: #fff;
+}
+
+.navbar2 a.register,
+.navbar2 a.login {
+    background: #7c8591;
+    padding: 10px;
+    outline: none;
+    border: 1px;
+    border-style: solid;
+    transition: 0.2s;
+    border-radius: 6px;
+    border-right-color: white;
+    
+}
+
+
+.navbar2 a.register:hover,
+.navbar2 a.login:hover {
+    background: #576272;
+}
+
+.navbar2 a.register:active,
+.navbar2 a.login:active {
+    background: #414955;
+
+}

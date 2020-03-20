@@ -1,0 +1,285 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "img": "images\/new-book6.png",
+            "title": "Anna Karenina",
+            "author": "Leo Tolstoy",
+            "genre": "\u0421hildren's books",
+            "date": "1878",
+            "rating": "5",
+            "category": "new",
+            "description": "Acclaimed by many as the world's greatest novel, Anna Karenina provides a vast panorama of contemporary life in Russia and of humanity in general. In it Tolstoy uses his intense imaginative insight to create some of the most memorable characters in all of literature. Anna is a sophisticated woman who abandons her empty existence as the wife of Karenin and turns to Count Vronsky to fulfil her passionate nature - with tragic consequences. Levin is a reflection of Tolstoy himself, often expressing the author's own views and convictions. Throughout, Tolstoy points no moral, merely inviting us not to judge but to watch. As Rosemary Edmonds comments, 'He leaves the shifting patterns of the kaleidoscope to bring home the meaning of the brooding words following the title, 'Vengeance is mine, and I will repay."
+        },
+        {
+            "id": 2,
+            "img": "images\/new-book2.png",
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "date": "1813",
+            "rating": "5",
+            "category": "new",
+            "description": "Jane Austen's Pride and Prejudice centers on the conflict between marrying for love and marrying for economic reasons. None of Mr. Bennet's five daughters can inherit his estate, so they are pressured into finding security in good marriages. Elizabeth Bennet, the main character, struggles with the societal pressures of marriage and resists Mr. Darcy's advances and proposals. Eventually, however, she finds that she does love him, and for that reason, she decides to marry him."
+        },
+        {
+            "id": 3,
+            "img": "images\/new-book3.jpg",
+            "title": "Thirteen Reasons Why",
+            "author": "Jay Asher",
+            "genre": "Modern prose",
+            "date": "2007",
+            "rating": "4",
+            "category": "new",
+            "description": "Clay Jensen returns home from school to find a strange package with his name on it lying on his porch. Inside he discovers several cassette tapes recorded by Hannah Baker\u2013his classmate and crush\u2013who committed suicide two weeks earlier. Hannah\u2019s voice tells him that there are thirteen reasons why she decided to end her life. Clay is one of them. If he listens, he\u2019ll find out why. "
+        },
+        {
+            "id": 4,
+            "img": "images\/new-book4.png",
+            "title": "Peter Pan",
+            "author": "J.M. Barrie",
+            "genre": "\u0421hildren's books",
+            "date": "1904",
+            "rating": "4.8",
+            "category": "new",
+            "description": "Peter Pan by J. M. Barrie Peter pan, the mischievous boy who refuses to grow up, lands in the Darling's proper middle-class home to look for his shadow. He befriends Wendy, John and Michael and teaches them to fly (with a little help from fairy dust). He and Tinker Bell whisk them off to Never-land where they encounter the Red Indians, the Little Lost Boys, pirates and the dastardly Captain Hook."
+        },
+        {
+            "id": 5,
+            "img": "images\/new-book5.png",
+            "title": "The Old Man and the Sea",
+            "author": "E. Hemmingway",
+            "genre": "\u0421hildren's books",
+            "date": "1952",
+            "rating": "5",
+            "category": "new",
+            "description": "This short novel, already a modern classic, is the superbly told, tragic story of a Cuban fisherman in the Gulf Stream and the giant Marlin he kills and loses \u2014 specifically referred to in the citation accompanying the author's Nobel Prize for literature in 1954."
+        },
+        {
+            "id": 6,
+            "img": "images\/To_Kill_a_Mockingbird.jpeg",
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee ",
+            "genre": "Classic",
+            "date": "1960",
+            "rating": "5",
+            "category": "popular",
+            "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic."
+        },
+        {
+            "id": 7,
+            "img": "images\/Two_Girls_Down.jpeg",
+            "title": "Two Girls Down",
+            "author": "Louisa Luna",
+            "genre": "Detective",
+            "date": "2018",
+            "rating": "4",
+            "category": "popular",
+            "description": "When two young sisters disappear from a strip mall parking lot in a small Pennsylvania town, their devastated mother hires an enigmatic bounty hunter, Alice Vega, to help find the girls. Immediately shut out by a local police department already stretched thin by budget cuts and the growing OxyContin and meth epidemic, Vega enlists the help of a disgraced former cop, Max Caplan. Cap is a man trying to put the scandal of his past behind him and move on, but Vega needs his help to find the girls, and she will not be denied. "
+        },
+        {
+            "id": 8,
+            "img": "images\/The_Dark_Tower.jpeg",
+            "title": "The Dark Tower",
+            "author": "Stephen King",
+            "genre": "Fantasy",
+            "date": "1998",
+            "rating": "5",
+            "category": "popular",
+            "description": "The seventh and final installment of Stephen King's The Dark Tower saga is perhaps the most anticipated book in the author's long career. King began this epic tale about the last gunslinger in the world more than 20 years ago; now he draws its suspenseful story to a close, snapping together the last pieces of his action puzzle and drawing Roland Deschain ever closer to his ultimate goal."
+        },
+        {
+            "id": 9,
+            "img": "images\/A_Game_of_Thrones.jpg",
+            "title": "A Game of Thrones",
+            "author": "George Martin",
+            "genre": "Fantasy",
+            "date": "1996",
+            "rating": "5",
+            "category": "popular",
+            "description": "Here is the first volume in George R. R. Martin\u2019s magnificent cycle of novels that includes A Clash of Kings and A Storm of Swords. As a whole, this series comprises a genuine masterpiece of modern fantasy, bringing together the best the genre has to offer. Magic, mystery, intrigue, romance, and adventure fill these pages and transport us to a world unlike any we have ever experienced. Already hailed as a classic, George R. R. Martin\u2019s stunning series is destined to stand as one of the great achievements of imaginative fiction."
+        },
+        {
+            "id": 10,
+            "img": "images\/The_Bad_Seed.jpg",
+            "title": "The Bad Seed",
+            "author": "William March",
+            "genre": "Horror",
+            "date": "1954",
+            "rating": "5",
+            "category": "popular",
+            "description": "Now reissued \u2013 William March's 1954 classic thriller that's as chilling, intelligent and timely as ever before. This paperback reissue includes a new P.S. section with author interviews, insights, features, suggested reading and more. What happens to ordinary families into whose midst a child serial killer is born? This is the question at the center of William March's classic thriller. After its initial publication in 1954, the book went on to become a million\u2013copy bestseller, a wildly successful Broadway show, and a Warner Brothers film. The spine\u2013tingling tale of little Rhoda Penmark had a tremendous impact on the thriller genre and generated a whole perdurable crop of creepy kids. Today, The Bad Seed remains a masterpiece of suspense that's as chilling, intelligent, and timely as ever before."
+        },
+        {
+            "id": 11,
+            "img": "images\/Business_Adventures.jpg",
+            "title": "Business Adventures",
+            "author": "John Brooks",
+            "genre": "Business",
+            "date": "1969",
+            "rating": "4",
+            "category": "business",
+            "description": "What do the $350 million Ford Motor Company disaster known as the Edsel, the fast and incredible rise of Xerox, and the unbelievable scandals at General Electric and Texas Gulf Sulphur have in common? Each is an example of how an iconic company was defined by a particular moment of fame or notoriety. These notable and fascinating accounts are as relevant today to understanding the intricacies of corporate life as they were when the events happened."
+        },
+        {
+            "id": 12,
+            "img": "images\/The_Psychology_of_Persuasion.jpg",
+            "title": "The Psychology of Persuasion",
+            "author": "Robert Cialdini",
+            "genre": "Business",
+            "date": "1984",
+            "rating": "5",
+            "category": "business",
+            "description": "Influence, the classic book on persuasion, explains the psychology of why people say yes\u2014and how to apply these understandings. Dr. Robert Cialdini is the seminal expert in the rapidly expanding field of influence and persuasion. His thirty-five years of rigorous, evidence-based research along with a three-year program of study on what moves people to change behavior has resulted in this highly acclaimed book."
+        },
+        {
+            "id": 13,
+            "img": "images\/The_Intelligent_Investor.jpg",
+            "title": "The Intelligent Investor",
+            "author": "Benjamin Graham",
+            "genre": "Business",
+            "date": "1949",
+            "rating": "5",
+            "category": "business",
+            "description": "The Classic Text Annotated to Update Graham's Timeless Wisdom for Today's Market Conditions The greatest investment advisor of the twentieth century, Benjamin Graham taught and inspired people worldwide. Graham's philosophy of value investing -- which shields investors from substantial error and teaches them to develop long-term strategies -- has made The Intelligent Investor the stock market bible ever since its original publication in 1949."
+        },
+        {
+            "id": 14,
+            "img": "images\/How_to_Win_Friends.jpg",
+            "title": "How to Win Friends & Influence People",
+            "author": "Dale Carnegie",
+            "genre": "Business",
+            "date": "1936",
+            "rating": "5",
+            "category": "business",
+            "description": "You can go after the job you want...and get it! You can take the job you have...and improve it! You can take any situation you're in...and make it work for you! Since its release in 1936, How to Win Friends and Influence People has sold more than 15 million copies. Dale Carnegie's first book is a timeless bestseller, packed with rock-solid advice that has carried thousands of now famous people up the ladder of success in their business and personal lives."
+        },
+        {
+            "id": 15,
+            "img": "images\/kraft.jpg",
+            "title": "Kraftwerk: Man, Machine and Music",
+            "author": "Pascal Bussy",
+            "genre": "Business",
+            "date": "1977",
+            "rating": "5",
+            "category": "business",
+            "description": "The Man-Machine (German: Die Mensch-Maschine) is the seventh studio album by German electronic music band Kraftwerk. It was released on 19 May 1978 by Kling Klang in Germany and by Capitol Records elsewhere. A further refinement of their mechanical style, the album saw the group incorporate more danceable rhythms and less minimalistic arrangements. It includes the singles The Model and The Robots. "
+        },
+        {
+            "id": 16,
+            "img": "images\/Outliers.jpg",
+            "title": "Outliers: The Story of Success",
+            "author": "Malcolm Gladwell",
+            "genre": "Business",
+            "date": "2011",
+            "rating": "5",
+            "category": "business",
+            "description": "In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of outliers--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different? His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band. "
+        },
+        {
+            "id": 17,
+            "img": "images\/steve.jpg",
+            "title": " Steve Jobs",
+            "author": "Walter Isaacson",
+            "genre": "Business",
+            "date": "2011",
+            "rating": "5",
+            "category": "business",
+            "description": "The Steve Jobs Exclusive Biography is a recount of Job\u2019s life and achievements. And a lot of dirty secrets that shed a better light on who Steve Jobs really was.  In the biography of Steve Jobs, Walter Isaacson provides an in-depth look at the Apple co-founder and former figurehead, using insights gathered from over forty interviews with Steve, himself, and countless others with the people that knew him best."
+        },
+        {
+            "id": 18,
+            "img": "images\/the_binding.jpg",
+            "title": "The Binding",
+            "author": "Bridget Collins",
+            "genre": "Romance",
+            "date": "2018",
+            "rating": "3",
+            "category": "new",
+            "description": "June, 1781. An unidentified body hangs upon a hook at Deptford Dock \u2013 horribly tortured and branded with a slaver\u2019s mark. Some days later, Captain Harry Corsham \u2013 a war hero embarking upon a promising parliamentary career \u2013 is visited by the sister of an old friend. Her brother, passionate abolitionist Tad Archer, had been about to expose a secret that he believed could cause irreparable damage to the British slaving industry. He\u2019d said people were trying to kill him, and now he is missing . . ."
+        },
+        {
+            "id": 19,
+            "img": "images\/blood.jpg",
+            "title": "Blood & Sugar",
+            "author": "Laura Shepherd",
+            "genre": "\u0421hildren's books",
+            "date": "2020",
+            "rating": "5",
+            "category": "new",
+            "description": "This short novel, already a modern classic, is the superbly told, tragic story of a Cuban fisherman in the Gulf Stream and the giant Marlin he kills and loses \u2014 specifically referred to in the citation accompanying the author's Nobel Prize for literature in 1954."
+        }
+    ],
+    "users": [
+        {
+            "name": "Hello!",
+            "genre": "Classics",
+            "email": "hello@google.com",
+            "password": "5cf4c34857a3dd5c8bf9761627c0ef52689ef87a4dd30fbbc667ae62da545501"
+        }
+    ],
+    "userbooks": [
+        {
+            "userEmail": "hello@google.com",
+            "bookId": "2"
+        },
+        {
+            "userEmail": "hello@google.com",
+            "bookId": "1"
+        }
+    ],
+    "comments": [
+        {
+            "name": "Hello!",
+            "text": "Hello, cool"
+        },
+        {
+            "name": "Hello!",
+            "text": "NEJLEPSI WEB"
+        },
+        {
+            "name": "Hello!",
+            "text": "1"
+        },
+        {
+            "name": "Hello!",
+            "text": "2"
+        },
+        {
+            "name": "Hello!",
+            "text": "3"
+        },
+        {
+            "name": "Hello!",
+            "text": "4"
+        },
+        {
+            "name": "Hello!",
+            "text": "7"
+        },
+        {
+            "name": "Hello!",
+            "text": "8"
+        },
+        {
+            "name": "Hello!",
+            "text": "9"
+        },
+        {
+            "name": "Hello!",
+            "text": "10"
+        },
+        {
+            "name": "Hello!",
+            "text": "11"
+        },
+        {
+            "name": "Hello!",
+            "text": "12"
+        },
+        {
+            "name": "Hello!",
+            "text": "13"
+        }
+    ]
+}

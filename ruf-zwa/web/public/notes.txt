@@ -1,0 +1,19 @@
+- img in footer section(vk, fb, yt)
+- move everything to db (books, users, userbooks)
+- move all common parts to separated blocks              DONE (footer, header)
+- change all files from html to php and include blocks   DONE
+- make logout link in header                             DONE
+- Dont show My Books in menu if not logged in            DONE
+- Redirect to index if not logged in and tries My books page            DONE
+- Redirect to index if logged in and tries Registration or Login page DONE
+
+- Create endpoint for removing books from my books       DONE
+- Add link to add book on every book                     DONE
+- Add link to view books on every book                   DONE
+- Add read book page and use getBookById function        DONE
+
+cd ~/uni/ruf-zwa/web
+scp -r public/utils/auth.php shamiruf@wa.toad.cz:www/utils/
+
+
+-my_books.php - if no books, write it  for user

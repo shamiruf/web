@@ -1,0 +1,114 @@
+.block-form {
+    width: 786px;
+    height: auto;
+    background: #b8ffc7;
+    text-align: center;
+    border-radius: 10px;
+    margin: 24px auto ;
+    
+}
+
+.form label {
+    font-weight: bold;
+}
+
+.form-control{
+    position:relative;
+    height: 100px;
+    
+}
+
+.form-control input:focus {
+	outline: 0;
+    border-color: #777;
+}
+
+.form-control.success input {
+	border-color: #13b958;
+}
+
+.form-control.error input {
+	border-color: #c22716;
+}
+
+.form-control i {
+	visibility: hidden;
+	position: absolute;
+	top: 40px;
+	right: 10px;
+}
+
+
+.form-control.success i.fa-check-circle {
+	visibility: visible;
+	color: #13b958;
+}
+
+.form-control.error i.fa-exclamation-circle {
+	visibility: visible;
+	color: #c22716;
+}
+
+.form-control small {
+    visibility: hidden;
+    position: absolute;
+    left: 5px;;
+	bottom: 5px;;
+	color: #c22716;
+}
+
+.form-control.error small {
+	visibility: visible;
+}
+
+input[type=text], input[type=password], select, textarea{
+    width: 756px;
+    padding: 15px;
+    margin: 5px 0 10px ;
+    display: inline-block;
+    background: #f1f1f1;
+    text-align: left;
+}
+
+.select-in-form {
+    position: relative;
+    font-family: georgia, "Times New Roman", Arial;
+    width: 786px;
+}
+
+datalist {
+    display:none;
+}
+
+
+.comment {
+    background: rgb(196, 187, 187);
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.comment-block {
+    margin: 10px;
+}
+
+.comment-title {
+    margin: 15px;
+    padding: 5px;
+}
+
+.comment-user{
+    margin-top: 5px;
+    border-bottom: 1px solid;
+}
+
+.reviews {
+    text-align: center;
+}
+
+a.guest-login {
+    font-size: large;
+}
+a.guest-login:hover {
+    font-size: 40px;
+}
